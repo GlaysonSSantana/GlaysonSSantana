@@ -1,4 +1,4 @@
-![20231127_144331](https://github.com/GlaysonSSantana/GlaysonSSantana/assets/67384588/42cdbe79-77aa-4eee-b9ad-a5c82feb2243)
+![Glayson Github](https://github.com/GlaysonSSantana/GlaysonSSantana/assets/67384588/d7d929ad-e9a0-4f1b-8c07-f780fa316aad)
 Opa!!! Fala galera.
 <br>
 ✨Sou o Glayson✨
