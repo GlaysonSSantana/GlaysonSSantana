@@ -2,7 +2,7 @@
 <br>-->
 # Opaaa!!! Fala galera.
 <br>
-**✨Sou o Glayson✨**
+**Sou o Glayson**
 <br>
 <p>
 ### <blink>Sejam bem vindos ao meu Perfil GitHub</blink>
