@@ -2,7 +2,7 @@
 <br>-->
 # Opaaa!!! Fala galera.
 <br>
-<b>Sou o Glayson</b>
+<strong>Sou o Glayson</strong>
 <br>
 <i>Sejam bem vindos ao meu Perfil GitHub</i>
 
