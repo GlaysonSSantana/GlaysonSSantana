@@ -6,7 +6,7 @@
 <br>
 <blockquote><i>Sejam bem vindos ao meu Perfil GitHub</i></blockquote>
 
-<img src="imagens/img2.png?w=512" heigth="15" wldth="15">
+<img src="imagens/img2.jpg?w=512" heigth="15" wldth="15">
 
 
 
