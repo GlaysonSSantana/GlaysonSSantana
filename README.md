@@ -4,7 +4,29 @@ Opaaa!!! Fala galera.
 <br>
 ✨Sou o Glayson✨
 <br>
-<blink>Sejam bem vindos ao meu Perfil GitHub<blink>
+.blink {
+  animation: blink 3s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+    transform: scale(2);
+  }
+  51% {
+    opacity: 0;
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+<blink>Sejam bem vindos ao meu Perfil GitHub</blink>
 
 
 
