@@ -2,11 +2,11 @@
 <br>-->
 # Opaaa!!! Fala galera.
 <br>
-<h2><strong>Sou o Glayson</strong></h2>
+<h2><strong>Sou o Glayson<img src="imagens/img2.jpeg?w=512" heigth="150" width="150">
+</strong></h2>
 <br>
 <blockquote><i>Sejam bem vindos ao meu Perfil GitHub</i></blockquote>
 
-<img src="imagens/img2.jpeg?w=512" heigth="150" width="150">
 
 
 
