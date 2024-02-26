@@ -15,6 +15,9 @@
 <p><h3 align="middle"> <font face="Arial" color="red" size="16px"> O que estou estudando.</font></h3>
  
 </p>
+## Estou aprendendo
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
 
