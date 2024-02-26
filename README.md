@@ -12,7 +12,7 @@
   com vocês!!!
  <br><br><br><br>
 </p>
-<p><h3 align="middle"> <font face="Arial" color="red"> O que estou estudando.</font></h3>
+<p><h3 align="middle"> <font face="Arial" color="red" size="16px"> O que estou estudando.</font></h3>
  
 </p>
 
