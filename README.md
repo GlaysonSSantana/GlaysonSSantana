@@ -9,7 +9,7 @@
 </p>
 <p><img src="imagens/img2.jpeg" heigth="150" width="150" align="left">
  <br><br>No momento estou me aprofundando e buscando trilhar uma carreira na área de CyberSec, mas ainda tenho muito caminho a percorrer e irei descrendo-o aqui junto
-  com vocês!!!\\\
+  com vocês!!!
 </p>
 <p><h3align="middle"> O que estou estudando.</h3>
  
