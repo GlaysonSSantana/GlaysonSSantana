@@ -12,7 +12,7 @@
   com vocês!!!
  <br><br><br><br>
 </p>
-<p><h3align="middle"> O que estou estudando.</h3>
+<p><h3 align="middle"> O que estou estudando.</h3>
  
 </p>
 
