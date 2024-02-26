@@ -15,6 +15,7 @@
 <p><h3 align="middle"> <font face="Arial" color="red" size="16px"> O que estou estudando.</font></h3>
  
 </p>
+<i class="devicon-apachekafka-original"></i>
 
 
 
