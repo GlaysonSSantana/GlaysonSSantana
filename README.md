@@ -11,7 +11,7 @@
  <br><br>No momento estou me aprofundando e buscando trilhar uma carreira na área de CyberSec, mas ainda tenho muito caminho a percorrer e irei descrendo-o aqui junto
   com vocês!!!
 </p>
-<p><h3>align-"middle" O que estou estudando.</h3>
+<p><h3align="middle"> O que estou estudando.</h3>
  
 </p>
 
