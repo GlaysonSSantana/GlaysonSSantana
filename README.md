@@ -4,7 +4,7 @@
 <br>
 <h2><strong>Sou o Glayson<br>
 </strong></h2>
-<p><img src="imagens/img2.jpeg" heigth="150" width="150" align="left">
+<p><img src="imagens/img2.jpeg" heigth="150" width="150" align="top">
 </p>
 <br><br>
 <p><blockquote><i>Sejam bem vindos ao meu Perfil GitHub</i></blockquote>
