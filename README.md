@@ -8,6 +8,8 @@
 <p><blockquote><i>Sejam bem vindos ao meu Perfil GitHub</i></blockquote>
 </p>
 <p><img src="imagens/img2.jpeg" heigth="150" width="150" align="top">
+  No momento estou me aprofundando e buscando trilhar uma carreira na área de CyberSec, mas ainda tenho muito caminho a percorrer e irei descrendo-o aqui junto
+  com vocês!!!
 </p>
 
 
