@@ -6,7 +6,7 @@
 </strong></h2>
 <p><img src="imagens/img2.jpeg" heigth="150" width="150" align="left">
 </p>
-<br>
+<br><br>
 <p><blockquote><i>Sejam bem vindos ao meu Perfil GitHub</i></blockquote>
 </p>
 
