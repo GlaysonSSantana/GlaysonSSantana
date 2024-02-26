@@ -2,7 +2,7 @@
 <br>-->
 # Opaaa!!! Fala galera.
 <br>
-<h2><strong>Sou o Glayson<br><img src="imagens/img2.jpeg" heigth="150" width="150" aling="rigth">
+<h2><strong>Sou o Glayson<br><img src="imagens/img2.jpeg" heigth="150" width="150" aling="bottom">
 </strong></h2>
 <br>
 <blockquote><i>Sejam bem vindos ao meu Perfil GitHub</i></blockquote>
