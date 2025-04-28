@@ -1,41 +1,59 @@
-<!--![Glayson Github](https://github.com/GlaysonSSantana/GlaysonSSantana/assets/67384588/d7d929ad-e9a0-4f1b-8c07-f780fa316aad)
-<br>-->
-# Opaaa!!! Fala galera.
-<br>
-<h2><strong>Sou o Glayson<br>
-</strong></h2>
-<br>
-<p><blockquote><i>Sejam bem vindos ao meu Perfil GitHub</i></blockquote>
-</p>
-<p><img src="imagens/img2.jpeg" heigth="150" width="150" align="left">
- <br><br>No momento estou me aprofundando e buscando trilhar uma carreira na área de CyberSec, mas ainda tenho muito caminho a percorrer e irei descrendo-o aqui junto
-  com vocês!!!
- <br><br><br><br>
-</p>
-<p><h3 align="middle"> <font face="Arial" color="red" size="16px"> O que estou estudando.</font></h3>
- 
-</p>
-## Estou aprendendo
+<div align="center">
+  <h1>👋 Glayson Santana | Aspirante a Cibersegurança</h1>
+  <p>🔒 <strong>Em transição de carreira</strong> | Ex-Suporte Técnico | Certificações Cisco & RNP</p>
+  
+  <img src="imagens/img2.jpeg" width="150" style="border-radius: 50%; border: 3px solid #0077b5; margin: 20px 0;">
+</div>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<!-- Seção Jornada -->
+<div>
+  <h2>🚀 Minha Jornada</h2>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>✅ <strong>2023-2024:</strong> +400h em certificações (Cisco CyberOps, Hackers do Bem/RNP)</li>
+    <li>🔍 <strong>Atualmente:</strong> Focado em Pentest Básico e Análise SOC</li>
+    <li>🎯 <strong>Próximo objetivo:</strong> Certificação OSCP</li>
+  </ul>
+</div>
 
+<!-- Seção Tecnologias -->
+<div>
+  <h2>🛠️ Stack Técnica</h2>
+  
+  <h3>🔐 Cibersegurança</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+    <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge" alt="Cisco Packet Tracer">
+    <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge" alt="OWASP ZAP">
+  </div>
+  
+  <h3>💻 Fundamentos</h3>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" alt="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java Básico" alt="Java">
+  </div>
+</div>
 
+<!-- Seção Projetos -->
+<div>
+  <h2>📂 Projetos em Andamento</h2>
+  <ol>
+    <li><strong>Análise de PCAPs</strong> - Prática com Wireshark</li>
+    <li><strong>Scripts Bash</strong> - Automação para pentest básico</li>
+    <li><strong>Relatórios Hackers do Bem</strong> - Documentação de labs</li>
+  </ol>
+</div>
 
+<!-- Seção Contato -->
+<div align="center" style="margin-top: 30px;">
+  <h2>📫 Como Me Encontrar</h2>
+  <a href="https://www.linkedin.com/in/glayson-santana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
+<!-- Footer -->
+<div align="center" style="margin-top: 50px; font-size: 0.8em; color: #666;">
+  <p>Última atualização: Junho/2024</p>
+</div>
 
-
-
-<!--
-**GlaysonSSantana/GlaysonSSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
