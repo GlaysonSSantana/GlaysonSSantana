@@ -46,7 +46,7 @@
     <img src="https://images.credly.com/size/150x150/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CyberOps-Associate.png" alt="CyberOps" width="100">
   </a>
   <a href="https://www.credly.com/badges/792578cb-ad5d-4729-beaa-044b7526bf3f" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/2a6251f2-737f-4b6b-b2ec-43a9184794f8/NDG-Linux-Essentials.png" alt="Linux" width="100">
+    <img src="https://images.credly.com/size/150x150/images/2a6251f2-737f-4b6b-b2ec-43a9184794f8/NDG-Linux-Essentials.png" alt="Network Security" width="100">
   </a>
   <br>
   <a href="https://www.credly.com/badges/148ffdf1-90ee-4ff4-85ae-8aec057c5977" target="_blank">
