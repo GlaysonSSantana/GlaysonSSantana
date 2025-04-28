@@ -12,7 +12,7 @@
 
 ## 🚀 Minha Jornada
 - **Transição profissional:** De suporte técnico para cibersegurança  
-- **Certificações:** CCNA, CyberOps Associate e Hackers do Bem  
+- **Certificações:** CCNA, CyberOps Associate, Hackers do Bem e Desenvolve Boticário/Alura
 - **Foco atual:** Pentest básico e análise SOC  
 
 ---
@@ -29,21 +29,35 @@
 ## 🏆 Certificações
 <div align="center">
   <a href="https://www.credly.com/badges/ac7adeef-441b-4168-8c8d-93338ec54493" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/683783d8-eaac-4c37-a14b-431d2b7e399f/CCNA.png" width="100" alt="CCNA">
+    <img src="https://github.com/GlaysonSSantana/GlaysonSSantana/blob/main/imagens/ccna-introduction-to-networks.png" width="100" alt="CCNA">
   </a>
   <a href="https://www.credly.com/badges/d00a45b4-d95b-4d4d-8552-e478e0b21ee1" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CyberOps-Associate.png" width="100" alt="CyberOps">
+    <img src="https://github.com/GlaysonSSantana/GlaysonSSantana/blob/main/imagens/networking-academy-learn-a-thon-2022.png" width="100" alt="NA Learn-A-Thon">
   </a>
   <a href="https://www.credly.com/badges/792578cb-ad5d-4729-beaa-044b7526bf3f" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/2a6251f2-737f-4b6b-b2ec-43a9184794f8/NDG-Linux-Essentials.png" width="100" alt="Network Security">
+    <img src="https://github.com/GlaysonSSantana/GlaysonSSantana/blob/main/imagens/network-security.png" width="100" alt="Network Security">
   </a>
-  <br>
   <a href="https://www.credly.com/badges/148ffdf1-90ee-4ff4-85ae-8aec057c5977" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/2a84d3d2-e874-4e9f-8f6b-137f6a9bfd1a/Cybersecurity-Essentials.png" width="100" alt="Cybersecurity">
+    <img src="https://github.com/GlaysonSSantana/GlaysonSSantana/blob/main/imagens/cyberops-associate.png" width="100" alt="CyberOps Associate">
   </a>
   <a href="https://www.credly.com/badges/710a641c-e7c0-4128-ae84-a7d1950b737d" target="_blank">
-    <img src="https://images.credly.com/size/150x150/images/4c0e2b9b-4e50-4a4a-9d4d-e5f4f87d8433/Network-Security.png" width="100" alt="CyberSecurity Introdution">
+    <img src="https://github.com/GlaysonSSantana/GlaysonSSantana/blob/main/imagens/introduction-to-cybersecurity.png" width="100" alt="CyberSecurity Introdution">
   </a>
+  <br>
+  <a href="https://www.linkedin.com/in/glayson-santana/details/certifications/850520584/multiple-media-viewer?profileId=ACoAABQNW8UBsaienrryORwg2UCnMOHS3le4vro&treasuryMediaId=1736017309054&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bw63pZZ8aQeiODw6qW3t3xg%3D%3D)" target="_blank">
+    <img src="https://github.com/GlaysonSSantana/GlaysonSSantana/blob/main/imagens/Nivelamento.png" width="100" alt="Nivelamento">
+  </a>
+  <a href="https://www.linkedin.com/in/glayson-santana/details/certifications/852876001/multiple-media-viewer?profileId=ACoAABQNW8UBsaienrryORwg2UCnMOHS3le4vro&treasuryMediaId=1736019751699&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BecmW5YYBQbCeUEg0kNZ%2BtA%3D%3D" target="_blank">
+    <img src="https://github.com/GlaysonSSantana/GlaysonSSantana/blob/main/imagens/Ba%CC%81sico.png" width="100" alt="Básico">
+  </a>
+  <a href="https://www.linkedin.com/in/glayson-santana/details/certifications/1043802698/multiple-media-viewer?profileId=ACoAABQNW8UBsaienrryORwg2UCnMOHS3le4vro&treasuryMediaId=1736210590922&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BecmW5YYBQbCeUEg0kNZ%2BtA%3D%3D" target="_blank">
+    <img src="https://github.com/GlaysonSSantana/GlaysonSSantana/blob/main/imagens/Fundamental_.png" width="100" alt="Fundamental">
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/glayson-santana/details/certifications/814729621/multiple-media-viewer?profileId=ACoAABQNW8UBsaienrryORwg2UCnMOHS3le4vro&treasuryMediaId=1745861367898&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BecmW5YYBQbCeUEg0kNZ%2BtA%3D%3D" target="_blank">
+    <img src="https://github.com/GlaysonSSantana/GlaysonSSantana/blob/main/imagens/AF_certificado-alunos%20-%20FORMAC%CC%A7A%CC%83O%20SEGURANC%CC%A7A%20DA%20INFORMAC%CC%A7A%CC%83O_Glayson%20Souza%20Santana_page-0001.jpg" width="100" alt="Boticário/Alura">
+  </a>
+  
 </div>
 
 ---
