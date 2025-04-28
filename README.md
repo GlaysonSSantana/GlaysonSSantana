@@ -34,48 +34,28 @@
   </div>
 </div>
 
+<!-- Seção certificados -->
+
 ## 🏆 Certificações Oficiais
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; justify-items: center; margin: 25px 0;">
-
-  <!-- CCNA: Introduction to Networks -->
-  <div data-iframe-width="150" data-iframe-height="270" 
-       data-share-badge-id="ac7adeef-441b-4168-8c8d-93338ec54493" 
-       data-share-badge-host="https://www.credly.com"
-       style="min-width: 150px;">
-  </div>
-
-  <!-- CyberOps Associate -->
-  <div data-iframe-width="150" data-iframe-height="270" 
-       data-share-badge-id="d00a45b4-d95b-4d4d-8552-e478e0b21ee1" 
-       data-share-badge-host="https://www.credly.com"
-       style="min-width: 150px;">
-  </div>
-
-  <!-- NDG Linux Essentials -->
-  <div data-iframe-width="150" data-iframe-height="270" 
-       data-share-badge-id="792578cb-ad5d-4729-beaa-044b7526bf3f" 
-       data-share-badge-host="https://www.credly.com"
-       style="min-width: 150px;">
-  </div>
-
-  <!-- Cybersecurity Essentials -->
-  <div data-iframe-width="150" data-iframe-height="270" 
-       data-share-badge-id="148ffdf1-90ee-4ff4-85ae-8aec057c5977" 
-       data-share-badge-host="https://www.credly.com"
-       style="min-width: 150px;">
-  </div>
-
-  <!-- Network Security -->
-  <div data-iframe-width="150" data-iframe-height="270" 
-       data-share-badge-id="710a641c-e7c0-4128-ae84-a7d1950b737d" 
-       data-share-badge-host="https://www.credly.com"
-       style="min-width: 150px;">
-  </div>
-
+<div align="center">
+  <a href="https://www.credly.com/badges/ac7adeef-441b-4168-8c8d-93338ec54493" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/683783d8-eaac-4c37-a14b-431d2b7e399f/CCNA.png" alt="CCNA" width="100">
+  </a>
+  <a href="https://www.credly.com/badges/d00a45b4-d95b-4d4d-8552-e478e0b21ee1" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CyberOps-Associate.png" alt="CyberOps" width="100">
+  </a>
+  <a href="https://www.credly.com/badges/792578cb-ad5d-4729-beaa-044b7526bf3f" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/2a6251f2-737f-4b6b-b2ec-43a9184794f8/NDG-Linux-Essentials.png" alt="Linux" width="100">
+  </a>
+  <br>
+  <a href="https://www.credly.com/badges/148ffdf1-90ee-4ff4-85ae-8aec057c5977" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/2a84d3d2-e874-4e9f-8f6b-137f6a9bfd1a/Cybersecurity-Essentials.png" alt="Cybersecurity" width="100">
+  </a>
+  <a href="https://www.credly.com/badges/710a641c-e7c0-4128-ae84-a7d1950b737d" target="_blank">
+    <img src="https://images.credly.com/size/150x150/images/4c0e2b9b-4e50-4a4a-9d4d-e5f4f87d8433/Network-Security.png" alt="Network Security" width="100">
+  </a>
 </div>
-
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!-- Seção Projetos -->
 <div>
