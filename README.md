@@ -34,6 +34,49 @@
   </div>
 </div>
 
+## 🏆 Certificações Oficiais
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; justify-items: center; margin: 25px 0;">
+
+  <!-- CCNA: Introduction to Networks -->
+  <div data-iframe-width="150" data-iframe-height="270" 
+       data-share-badge-id="ac7adeef-441b-4168-8c8d-93338ec54493" 
+       data-share-badge-host="https://www.credly.com"
+       style="min-width: 150px;">
+  </div>
+
+  <!-- CyberOps Associate -->
+  <div data-iframe-width="150" data-iframe-height="270" 
+       data-share-badge-id="d00a45b4-d95b-4d4d-8552-e478e0b21ee1" 
+       data-share-badge-host="https://www.credly.com"
+       style="min-width: 150px;">
+  </div>
+
+  <!-- NDG Linux Essentials -->
+  <div data-iframe-width="150" data-iframe-height="270" 
+       data-share-badge-id="792578cb-ad5d-4729-beaa-044b7526bf3f" 
+       data-share-badge-host="https://www.credly.com"
+       style="min-width: 150px;">
+  </div>
+
+  <!-- Cybersecurity Essentials -->
+  <div data-iframe-width="150" data-iframe-height="270" 
+       data-share-badge-id="148ffdf1-90ee-4ff4-85ae-8aec057c5977" 
+       data-share-badge-host="https://www.credly.com"
+       style="min-width: 150px;">
+  </div>
+
+  <!-- Network Security -->
+  <div data-iframe-width="150" data-iframe-height="270" 
+       data-share-badge-id="710a641c-e7c0-4128-ae84-a7d1950b737d" 
+       data-share-badge-host="https://www.credly.com"
+       style="min-width: 150px;">
+  </div>
+
+</div>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!-- Seção Projetos -->
 <div>
   <h2>📂 Projetos em Andamento</h2>
